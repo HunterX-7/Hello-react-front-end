@@ -16,11 +16,11 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-- [🚀 Live Demo & Project Presentation](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
+  - [Backend](#backend)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -99,7 +99,7 @@ cd Hello-react-front-end
 
 ### Usage
 
-It is require that you setup your database to run this project, check the config/database.yml and make sure that the username and password match you postgresql setup, then run:
+It is require that you set up your database to run this project, check the config/database.yml and make sure that the username and password match you postgresql setup, then run:
 
 ```console
 yarn
@@ -111,8 +111,10 @@ To run the front-end, execute the following commands in the project directory:
 yarn start
 ```
 
-**To get the Backend you need to follow this link and download the repo and follow the instructions of the fron-end README file
-[Here](https://github.com/HunterX-7/Hello-rails-back-end).**
+### Backend
+
+***To get the Backend to set up the database you need to follow this link and download the repo and follow the instructions of the Backend README file
+[Here](https://github.com/HunterX-7/Hello-rails-back-end).***
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

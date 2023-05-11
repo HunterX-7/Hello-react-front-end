@@ -1,2 +1,167 @@
-# Hello-react-front-end
-This repository contains the frontend user interface for the application. It was built using React and allows users to interact with the app's features. The frontend is designed to be independent of the backend API, which means it can be managed as a separate app.
+<a name="readme-top"></a>
+
+<div align="center">
+  <img src="./hello.png" alt="logo" width="256"  height="auto" />
+  <br/>
+
+  <h3><b>Hello World</b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Usage](#usage)
+  - [Backend](#backend)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
+# 📖 Hello World Frontend <a name="about-project"></a>
+
+This repository contains a sample project that demonstrates how to connect a Ruby on Rails back-end with a React front-end. The goal of this exercise is to apply previous knowledge of using gems with Rails to connect the back-end with the front-end, while also introducing new techniques for handling JavaScript assets in a Rails application.
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+This project was implemented using:
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+### Key Features <a name="key-features"></a>
+
+- **Display a random greeting generated through an api call to rails database, front-end using react**
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps:
+
+### Prerequisites
+
+In order to run this project you need to have installed:
+
+- [ ] You’ll need to have Ruby and Rails on your machine.
+
+Optionally, in order to modify this project you should to have installed:
+
+- [ ] Git.
+
+- [ ] Code editor like: [Visual Studio code](https://code.visualstudio.com/), or others...
+
+### Setup
+
+To clone this repository to your desired folder:
+
+- You can download the **Zip** file from the GitHub repository, or clone the repository with:
+
+```console
+git clone https://github.com/HunterX-7/Hello-react-front-end.git
+```
+
+- Access the cloned directory with:
+
+```console
+cd Hello-react-front-end
+```
+
+- Open it with your favorite code editor or with the live server
+
+### Usage
+
+It is require that you set up your database to run this project, check the config/database.yml and make sure that the username and password match you postgresql setup, then run:
+
+```console
+yarn
+```
+
+To run the front-end, execute the following commands in the project directory:
+
+```console
+yarn start
+```
+
+### Backend
+
+***To get the Backend to set up the database you need to follow this link and download the repo and follow the instructions of the Backend README file
+[Here](https://github.com/HunterX-7/Hello-rails-back-end).***
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Francisco Quintero**
+
+- GitHub: [@HunterX-7](https://github.com/HunterX-7)
+- Twitter: [@franquin07](https://twitter.com/franquin07)
+- LinkedIn: [Francisco Quintero](https://www.linkedin.com/in/francisco-asis-quintero-cede%C3%B1o/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+We will implement this on the future:
+
+- [ ] **Improve the user interface**
+- [ ] **Add other features**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/HunterX-7/Hello-react-front-end/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+Give a ⭐️ if you like this project!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+Hat tip to anyone whose code was used.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)
+
+
